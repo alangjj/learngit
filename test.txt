@@ -1,2 +1,2 @@
 这是一个测试文件
-creating a new branch is quick.
+Creating a new branch is quick & simple.
